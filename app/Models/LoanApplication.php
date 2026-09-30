@@ -13,6 +13,7 @@ class LoanApplication extends Model
         'full_name',
         'phone_number',
         'national_id',
+        'loan_type_id',
         'amount',
         'interest_rate',
         'term_days',
